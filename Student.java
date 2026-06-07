@@ -1,3 +1,4 @@
+//add Student input functionality
 class Student {
   private String  StudentId;
   private String StudentName;
